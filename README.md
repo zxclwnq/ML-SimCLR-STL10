@@ -25,7 +25,7 @@
 |---|---:|---|
 | Batch Size | 1024 | 2N-2=2046 отрицательных примеров на итерацию |
 | Epochs | 650 | Количество эпох обучения |
-| Learning Rate | 0.6 | learning rate c `CosineAnnealingLR` затуханием до `η_min=1e-6` и 10 эпохами warmup |
+| Learning Rate | 0.6 | Learning rate c `CosineAnnealingLR` затуханием до `η_min=1e-6` и 10 эпохами warmup |
 | Temperature (`τ`) | 0.1 | Регулирует штраф за близость отрицательных примеров |
 | Optimizer | LARS | Адаптивная норма градиента для стабильности при большом батче |
 
