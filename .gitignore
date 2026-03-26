@@ -1,0 +1,5 @@
+/data/
+/stl10_binary.tar.gz
+
+**/__pycache__/
+*.pyc
