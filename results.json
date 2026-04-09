@@ -1,0 +1,10 @@
+{
+    "checkpoint.pth": {
+        "knn_k20": 87.15,
+        "linear_eval": 92.6
+    },
+    "model_best.pth": {
+        "knn_k20": 87.0125,
+        "linear_eval": 92.5625
+    }
+}

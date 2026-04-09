@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu129
+
+kornia==0.8.2
+matplotlib==3.10.6
+numpy==2.4.3
+pandas==2.3.2
+PyYAML==6.0.3
+scikit-learn==1.7.1
+seaborn==0.13.2
+tbparse==0.0.9
+torch==2.8.0+cu129
+torch-optimizer==0.3.0
+torchvision==0.23.0+cu129
+tqdm==4.67.1
+umap-learn==0.5.12
