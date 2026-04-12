@@ -3,8 +3,9 @@ import sys
 import os
 import argparse
 
+# to import from another directory
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from src.vizualization_utils import export_scalars, DEFAULT_TAGS
+from visualization_utils import export_scalars, DEFAULT_TAGS
 
 
 def main():
